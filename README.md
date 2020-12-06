@@ -1,2 +1,2 @@
 # pure-javascript
-pure javascript is my favorite 
+javascript is my favorite language out there
